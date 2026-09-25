@@ -1,0 +1,25 @@
+{
+  "name": "com.invisiblelevel.albedolizer",
+  "version": "1.0.0",
+  "displayName": "Albedolizer PBR Generator",
+  "description": "Generate PBR maps from Albedo textures inside Unity Editor. AI color correction, 50 material presets, seamless generation, auto URP material creation. Free.",
+  "unity": "2022.3",
+  "author": {
+    "name": "INV.LVL",
+    "url": "https://github.com/invisiblelevel"
+  },
+  "keywords": [
+    "pbr",
+    "texture",
+    "albedo",
+    "material",
+    "generator",
+    "ai",
+    "urp",
+    "hdrp"
+  ],
+  "license": "MIT",
+  "documentationUrl": "https://github.com/invisiblelevel/Albedolizer-Unity",
+  "changelogUrl": "https://github.com/invisiblelevel/Albedolizer-Unity/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/invisiblelevel/Albedolizer-Unity/blob/main/LICENSE.md"
+}
